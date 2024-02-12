@@ -1,8 +1,7 @@
 # Aplikasi-My-Cafe
 This application was created to complete skills tests in the front end and backend fields.
 
-# Step 1
-Install Node JS lates or min version 18 
+# Step 1 Install Node JS lates or min version 18 
 
 # Step 2
 Run Comment :
