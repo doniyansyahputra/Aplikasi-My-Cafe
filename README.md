@@ -9,8 +9,7 @@ Run Comment :
 npm install or npm i
 
 # Step 3
-Run Apliction Backend, 
-Aplikasi berada di Repository Aplikasi Backend
+Run Apliction Backend, The application resides in the Backend Application Repository
 
 # Step 4
 running emulatior android in android studio
