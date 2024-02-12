@@ -1,0 +1,1 @@
+export const gambarAwan = './assetsGrab/images/awan.jpg'
